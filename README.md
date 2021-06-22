@@ -1,2 +1,4 @@
 # test2uielements
-![Screenshot](LohinPage.png)
+<p align="center">
+  <img src="LoginPage.png" width="350" title="hover text">
+</p>
