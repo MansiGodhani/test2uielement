@@ -1,2 +1,2 @@
 # test2uielements
-![Uploading LoginPage.png…]()
+![Screenshot](LohinPage.png)
